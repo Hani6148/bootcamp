@@ -1,0 +1,38 @@
+.red{
+    color: red
+}
+.blue{
+    color: blue
+}
+.green{
+    color: green
+}
+.big{
+    font-size: large 
+}
+.tiny{
+    font-size: small
+}
+.center{
+    text-align: center
+}
+.bold{
+    font-weight: bold
+}
+.font-family{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.combo{
+    color: orange;
+    font-size: large;
+    font-weight: bold
+}
+.styledFont{
+    color: green    
+}
+#styledImage{
+    border-color: orange;
+    border-style: solid;
+    border-width: thick
+
+}
